@@ -1,0 +1,63 @@
+@font-face{}
+
+html, body{
+	margin: 0%;
+	padding: 0%;
+}
+
+
+body {
+	background-color: darkgray;
+}
+
+header {
+	background-color: black;
+}
+
+main {
+	margin: 0%;
+	padding: 2%;
+}
+
+p {}
+
+footer{
+	text-align: center;
+	display: block;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.logo{}
+
+.HISTO{
+	background-color: greenyellow;
+	float: right;
+}
+
+.in{
+	text-align: center;
+	font-size: 20px;
+
+}
+
+.int{
+	border-style: double;
+    background-color: oldlace;
+    text-align: center;
+}
+
+.intR{
+	font-size: 12px;
+	border-style: double;
+	background-color: oldlace;
+	text-align: center;
+	float: right;
+
+}
+
+.IMG1{
+	margin: 1%;
+	padding: 0%;
+}
+
